@@ -46,6 +46,6 @@ This repository will be updated regularly as I learn and grow.
 
 ## Author : Mohit Prajapati
 ## Feel free To connect on :
-Linkdin : https://www.linkedin.com/in/mohit-prajapati-72020b344
-Leetcode : https://leetcode.com/u/mohitprajapati001/
-Github : https://github.com/mprajapati63944-cmd
+* Linkdin : https://www.linkedin.com/in/mohit-prajapati-72020b344
+* Leetcode : https://leetcode.com/u/mohitprajapati001/
+* Github : https://github.com/mprajapati63944-cmd
